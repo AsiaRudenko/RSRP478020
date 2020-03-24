@@ -1,0 +1,13 @@
+C:\Users\asia.koox\source\repos\RSRP478020\RSRP478020\bin\Debug\netcoreapp3.1\RSRP478020.exe
+C:\Users\asia.koox\source\repos\RSRP478020\RSRP478020\bin\Debug\netcoreapp3.1\RSRP478020.deps.json
+C:\Users\asia.koox\source\repos\RSRP478020\RSRP478020\bin\Debug\netcoreapp3.1\RSRP478020.runtimeconfig.json
+C:\Users\asia.koox\source\repos\RSRP478020\RSRP478020\bin\Debug\netcoreapp3.1\RSRP478020.runtimeconfig.dev.json
+C:\Users\asia.koox\source\repos\RSRP478020\RSRP478020\bin\Debug\netcoreapp3.1\RSRP478020.dll
+C:\Users\asia.koox\source\repos\RSRP478020\RSRP478020\bin\Debug\netcoreapp3.1\RSRP478020.pdb
+C:\Users\asia.koox\source\repos\RSRP478020\RSRP478020\obj\Debug\netcoreapp3.1\RSRP478020.csprojAssemblyReference.cache
+C:\Users\asia.koox\source\repos\RSRP478020\RSRP478020\obj\Debug\netcoreapp3.1\RSRP478020.AssemblyInfoInputs.cache
+C:\Users\asia.koox\source\repos\RSRP478020\RSRP478020\obj\Debug\netcoreapp3.1\RSRP478020.AssemblyInfo.cs
+C:\Users\asia.koox\source\repos\RSRP478020\RSRP478020\obj\Debug\netcoreapp3.1\RSRP478020.csproj.CoreCompileInputs.cache
+C:\Users\asia.koox\source\repos\RSRP478020\RSRP478020\obj\Debug\netcoreapp3.1\RSRP478020.dll
+C:\Users\asia.koox\source\repos\RSRP478020\RSRP478020\obj\Debug\netcoreapp3.1\RSRP478020.pdb
+C:\Users\asia.koox\source\repos\RSRP478020\RSRP478020\obj\Debug\netcoreapp3.1\RSRP478020.genruntimeconfig.cache

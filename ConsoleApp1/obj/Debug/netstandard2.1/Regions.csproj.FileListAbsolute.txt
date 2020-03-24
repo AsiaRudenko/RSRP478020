@@ -1,0 +1,4 @@
+C:\Users\asia.koox\source\repos\RSRP478020\ConsoleApp1\obj\Debug\netstandard2.1\Regions.csprojAssemblyReference.cache
+C:\Users\asia.koox\source\repos\RSRP478020\ConsoleApp1\obj\Debug\netstandard2.1\Regions.AssemblyInfoInputs.cache
+C:\Users\asia.koox\source\repos\RSRP478020\ConsoleApp1\obj\Debug\netstandard2.1\Regions.AssemblyInfo.cs
+C:\Users\asia.koox\source\repos\RSRP478020\ConsoleApp1\obj\Debug\netstandard2.1\Regions.csproj.CoreCompileInputs.cache
